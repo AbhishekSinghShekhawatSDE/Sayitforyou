@@ -29,10 +29,10 @@ This repository contains the codebase powering the SayItForYou.fun platform. Acc
 
 ## Connect and Follow
 
-[![Instagram](images/website.jpg)](https://www.instagram.com/sayitforyou.fun/)  
+[![Instagram](images/website.jpg)]  
 [@SayItForYou](https://www.instagram.com/sayitforyou.fun/)
 
-[![Website](images/Instgram.jpg)](https://sayitforyou.fun)  
+[![Website](images/Say It For You - web.png)]  
 [SayItForYou.fun](https://sayitforyou.fun)
 
 ---
