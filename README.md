@@ -32,7 +32,7 @@ This repository contains the codebase powering the SayItForYou.fun platform. Acc
 [![Instagram](images/Instgram.jpg)](https://www.instagram.com/SayItForYou.fun/)  
 [@SayItForYou](https://www.instagram.com/SayItForYou.fun/)
 
-[![Website](images/Say It For You - web.png)](https://sayitforyou.fun)  
+[![Website](images/Sayitforyou.funwebsite.png)](https://sayitforyou.fun)  
 [SayItForYou.fun](https://sayitforyou.fun)
 ---
 
